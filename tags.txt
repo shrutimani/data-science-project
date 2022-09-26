@@ -1,0 +1,10 @@
+Region	Tags
+Europe	24,912
+North-America 	48,479
+Central-America 	1,818
+South-america	1,255
+Asia	13,485
+India	2,708
+Oceania	2,845
+Africa	2,851
+Middle-East	2,067
